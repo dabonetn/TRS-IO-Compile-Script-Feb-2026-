@@ -12,10 +12,14 @@ You need to install debian 11.5, login as root and then issue the following comm
 
 I've just gone ahead and made them install everything and compile the desired destination in one go.
 
-Just pick the version you want and wget it, then set it as executable with the chmod +x command.
+Just pick the version you want (Right click the blue text) and wget it from the command line, then set it as executable with the chmod +x command.
 
 [TRS-IO Model 3] (https://github.com/dabonetn/TRS-IO-Compile-Script-Feb-2026-/raw/refs/heads/main/TRS-IO-m3.sh)
 
 [TRS-IO Model 1] (https://github.com/dabonetn/TRS-IO-Compile-Script-Feb-2026-/raw/refs/heads/main/TRS-IO-m1.sh)
 
 [TRS-IO Model ++] (https://github.com/dabonetn/TRS-IO-Compile-Script-Feb-2026-/raw/refs/heads/main/TRS-IO-plusplus.sh)
+
+
+After everything is compiled, use the flashing guide in the above link at the Retro Computing Blog to then flash the esp32.
+
