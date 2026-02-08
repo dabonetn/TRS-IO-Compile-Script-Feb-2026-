@@ -7,8 +7,8 @@ I based these off of the guide by Retro Computing Blog located here.
 
 You need to install debian 11.5, login as root and then issue the following commands.
 
-"apt install sudo"
-"adduser (yourusername you made) sudo"
+"apt install sudo"  
+"adduser (yourusername you made) sudo"  
 
 I've just gone ahead and made them install everything and compile the desired destination in one go.
 
